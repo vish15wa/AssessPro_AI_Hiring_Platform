@@ -1,0 +1,9 @@
+
+{
+  "name": "AssessPro - An Intelligent Skill-Centric Hiring Assessment Platform",
+  "description": "An AI-powered assessment platform designed to eliminate fake or unqualified job applications by ensuring that candidates are evaluated strictly based on job requirements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
